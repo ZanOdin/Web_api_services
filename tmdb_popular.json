@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/lNyLSOKMMeUPr1RsL4KcRuIXwHt.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 580489,
+        "original_language": "en",
+        "original_title": "Venom: Let There Be Carnage",
+        "overview": "Эдди живёт с симбиотом в своём теле уже давно и приспособился к быту. Однако ему придётся столкнуться со злодеем Клетусом Кэссиди, в котором обитает другой внеземной паразит по прозвищу Карнаж.",
+        "popularity": 4896.295,
+        "poster_path": "/lO6TXwP5dKoflEhqfjd0uNWSNhp.jpg",
+        "release_date": "2021-09-30",
+        "title": "Веном 2",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 1765
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eeijXm3553xvuFbkPFkDG6CLCbQ.jpg",
+        "genre_ids": [
+            878,
+            12
+        ],
+        "id": 438631,
+        "original_language": "en",
+        "original_title": "Dune",
+        "overview": "Наследник знаменитого дома Атрейдесов Пол отправляется вместе с семьёй на одну из самых опасных планет во Вселенной — Арракис. Здесь нет ничего, кроме песка, палящего солнца, гигантских чудовищ и основной причины межгалактических конфликтов — невероятно ценного ресурса, который называется меланж. В результате захвата власти Пол вынужден бежать и скрываться, и это становится началом его эпического путешествия. Враждебный мир Арракиса приготовил для него множество тяжёлых испытаний, но только тот, кто готов взглянуть в глаза своему страху, достоин стать избранным.",
+        "popularity": 2523.094,
+        "poster_path": "/irwFnLniLSu0KkiK7FMAgLounCX.jpg",
+        "release_date": "2021-09-15",
+        "title": "Дюна",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 3672
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fzKWwcaam9QSTaMSJlORuSojxio.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 524434,
+        "original_language": "en",
+        "original_title": "Eternals",
+        "overview": "Вечные — представители расы генетически улучшенных суперлюдей, тайно живущих на Земле. Они появились на свет 5 миллионов лет назад в результате экспериментов могущественных целестиалов. Наделённые невероятными суперспособностями, на протяжении тысячелетий они скрывались от человеческой цивилизации, втайне защищая людей от монструозных девиантов. Однако, последние события и действия Таноса заставили их выйти на свет.",
+        "popularity": 2868.332,
+        "poster_path": "/iCQTxIgEpNYvPfHvEuZkDcmWItU.jpg",
+        "release_date": "2021-11-03",
+        "title": "Вечные",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 681
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mu8RKavbv7Ml48twHQ6XVk7zw8e.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 796499,
+        "original_language": "en",
+        "original_title": "Army of Thieves",
+        "overview": "Жизнь скромного банковского служащего Дитера круто меняется, когда таинственная незнакомка приглашает его в команду самых разыскиваемых Интерполом преступников, решивших взломать неприступные сейфы по всей Европе.",
+        "popularity": 2386.822,
+        "poster_path": "/xTic4XKSuOqalWawvz9rvHIgqJq.jpg",
+        "release_date": "2021-10-27",
+        "title": "Армия воров",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 576
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+        "genre_ids": [
+            35,
+            28,
+            12,
+            878
+        ],
+        "id": 550988,
+        "original_language": "en",
+        "original_title": "Free Guy",
+        "overview": "У сотрудника крупного банка всё идёт по накатанной, пока однажды он не выясняет, что окружающий его мир — это часть огромной видеоигры, а сам он в ней — всего лишь второстепенный персонаж. Хватит ли у него духу переписать свой код, обратить на себя внимание прекрасной девушки и, наконец, спасти мир? Одним словом, получится ли из него главный герой?",
+        "popularity": 1693.525,
+        "poster_path": "/qJZ3UeKAOgz2kFVJPZZFzLtn1Qk.jpg",
+        "release_date": "2021-08-11",
+        "title": "Главный герой",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 3519
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nDLylQOoIazGyYuWhk21Yww5FCb.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 566525,
+        "original_language": "en",
+        "original_title": "Shang-Chi and the Legend of the Ten Rings",
+        "overview": "Мастеру боевых искусств Шан-Чи предстоит противостоять призракам из собственного прошлого, по мере того как его втягивают в паутину интриг таинственной организации «Десять колец».",
+        "popularity": 1858.052,
+        "poster_path": "/klxQoepkfLR021DWy2Rpy67mgww.jpg",
+        "release_date": "2021-09-01",
+        "title": "Шан-Чи и легенда десяти колец",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 1556
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "id": 335983,
+        "original_language": "en",
+        "original_title": "Venom",
+        "overview": "Что если в один прекрасный день в тебя вселяется существо-симбиот, которое наделяет тебя сверхчеловеческими способностями? Вот только Веном – симбиот совсем недобрый, и договориться с ним невозможно. Хотя нужно ли договариваться?.. Ведь в какой-то момент ты понимаешь, что быть плохим вовсе не так уж и плохо. Так даже веселее. В мире и так слишком много супергероев! Мы – Веном!",
+        "popularity": 1070.818,
+        "poster_path": "/8Gyl0fknqiZeCLm9XitxCXQmEL9.jpg",
+        "release_date": "2018-09-28",
+        "title": "Веном",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 12134
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hugKriLPeBm3lErSCQiFOgQzpkC.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 574060,
+        "original_language": "en",
+        "original_title": "Gunpowder Milkshake",
+        "overview": "Быть киллером — весело и просто. Особенно для Сэм, которая от матери унаследовала талант к заказным убийствам. Но когда девушке приходится пойти наперекор собственному боссу, она становится мишенью целой армии головорезов. К счастью, мама и её бывшие напарницы готовы помочь угостить недоброжелателей своим фирменным «пороховым коктейлем».",
+        "popularity": 1162.419,
+        "poster_path": "/oVB4dtfFDQrSbAsH7zrH8uV1d9G.jpg",
+        "release_date": "2021-07-14",
+        "title": "Пороховой коктейль",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 347
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6xCOWFIb1Za7jeP6rqw7SfPgkNX.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 768449,
+        "original_language": "en",
+        "original_title": "American Badger",
+        "overview": "Сюжет развернется вокруг уже не молодого киллера по прозвищу \"Барсук\". Однажды ему дают приказ сблизиться с конкретной девушкой по вызову, и далее – убить ее. Но именно в этот момент Барсук решает переосмыслить свою жизнь. А это значит, нанимателям явно не поздоровится.",
+        "popularity": 1046.317,
+        "poster_path": "/8mO2ZTTOnLnaEQd1sNZAE2XBoOg.jpg",
+        "release_date": "2021-03-05",
+        "title": "Американский барсук",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7h5WAPAcUzOWpp2jrwHBB48790j.jpg",
+        "genre_ids": [
+            16,
+            28
+        ],
+        "id": 843241,
+        "original_language": "ja",
+        "original_title": "劇場版 七つの大罪 光に呪われし者たち",
+        "overview": "",
+        "popularity": 1011.364,
+        "poster_path": "/gtiNyP9BoQmPzjeDhvofUtUxpJV.jpg",
+        "release_date": "2021-07-02",
+        "title": "Семь смертных грехов: Проклятые светом",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 213
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/icOUc1llxf2GJr1Z4dBbJYLzuvw.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 871964,
+        "original_language": "pl",
+        "original_title": "W lesie dziś nie zaśnie nikt 2",
+        "overview": "С единственной выжившей в кровавой бойне случается нечто ужасное. Робкий полицейский-новичок должен преодолеть свои страхи, чтобы предотвратить новую резню.",
+        "popularity": 940.054,
+        "poster_path": "/k5Z2DdVqtWxGm14d3F3GawHlGOV.jpg",
+        "release_date": "2021-10-27",
+        "title": "В лесу сегодня не до сна 2",
+        "video": false,
+        "vote_average": 4,
+        "vote_count": 74
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2OFg5p9yarI5zZsUWKCRgBgPctj.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 568620,
+        "original_language": "en",
+        "original_title": "Snake Eyes: G.I. Joe Origins",
+        "overview": "Загадочный и суровый одиночка Снейк Айз спасает наследника древнего японского клана Арашикаге, и в знак признательности клан открывает ему тайные знания пути ниндзя. Но главное: Снейк Айз обретает то, к чему так долго стремился, — дом. Однако, когда становятся известны секреты его прошлого, на кону оказываются его честь, преданность и доверие самых близких людей.",
+        "popularity": 1004.501,
+        "poster_path": "/5ziYvBUoDB95zeGnTEZxxb92Xi1.jpg",
+        "release_date": "2021-07-22",
+        "title": "G.I. Joe: Бросок кобры. Снейк Айз",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 790
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eBGKU0ZLJmxtVtzESTB1mfllX1J.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 630004,
+        "original_language": "en",
+        "original_title": "The Vault",
+        "overview": "Юный гений Том вместе с харизматичным торговцем предметами искусства Уолтером ввязываются в смертельно опасную авантюру. Пока все жители Мадрида отвлечены Чемпионатом мира по футболу, у парней есть всего 90 минут, чтобы ограбить самый защищенный в мире банк, используя единственное оружие – мозг.",
+        "popularity": 928.902,
+        "poster_path": "/8Ct4IPQudMk49RysXAuPUGGj32B.jpg",
+        "release_date": "2021-03-03",
+        "title": "Гениальное ограбление",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 398
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wfrfxivLOBtGMC98tIr2LSOeKSe.jpg",
+        "genre_ids": [
+            16,
+            35,
+            10751
+        ],
+        "id": 639721,
+        "original_language": "en",
+        "original_title": "The Addams Family 2",
+        "overview": "Семейка Аддамс вовлекается в ещё более умопомрачительные приключения и оказывается вовлечённой в забавные стычки с самыми разными ничего не подозревающими персонажами.  Продолжение мультфильма 2019 года «Семейка Аддамс».",
+        "popularity": 985.783,
+        "poster_path": "/q9bt09k468PhsCTYybd20FIqfNw.jpg",
+        "release_date": "2021-10-01",
+        "title": "Семейка Аддамс: Горящий тур",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 567
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tDYwYktjFmpj92S2Qn4T3BcRgL.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 610253,
+        "original_language": "en",
+        "original_title": "Halloween Kills",
+        "overview": "Хитроумная ловушка Лори Строуд почти помогла ей победить зловещего убийцу Майкла Майерса. Почти… Он снова на свободе, и кровавый след, который тянется за ним, еще никогда не был таким длинным. Женщины семьи Строуд объединяются с другими выжившими, чтобы остановить Майкла раз и навсегда…",
+        "popularity": 929.228,
+        "poster_path": "/8lr4YPjFtLUkMgRKr7quYwJVpiL.jpg",
+        "release_date": "2021-10-14",
+        "title": "Хэллоуин убивает",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1148
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wJrvNljE4lZDd5D7cIxi6xAVVZL.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 846167,
+        "original_language": "pl",
+        "original_title": "W jak morderstwo",
+        "overview": "Домохозяйка, обожающая детективы, принимается за расследование убийства женщины и попутно узнает самые сокровенные тайны жителей маленького городка.",
+        "popularity": 746.418,
+        "poster_path": "/tq5ODEgr1PUxT7HCqDT73SlDIek.jpg",
+        "release_date": "2021-06-18",
+        "title": "В — как в слове «убийство»",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3rVeadGc32aXOtmYn3X7glSAP2r.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 879163,
+        "original_language": "pt",
+        "original_title": "Peçanha Contra o Animal",
+        "overview": "",
+        "popularity": 751.635,
+        "poster_path": "/nH0EycssY8aFJxElTsGSRirP9qr.jpg",
+        "release_date": "2021-10-22",
+        "title": "Peçanha Contra o Animal",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+        "genre_ids": [
+            16,
+            28,
+            12,
+            14
+        ],
+        "id": 635302,
+        "original_language": "ja",
+        "original_title": "劇場版「鬼滅の刃」無限列車編",
+        "overview": "Тандзиро с друзьями из отряда уничтожителей демонов расследует серию загадочных исчезновений внутри мчащегося поезда. Но компания ещё не знает, что в составе находится один из двенадцати Лунных демонов, и он приготовил для них ловушку.",
+        "popularity": 839.234,
+        "poster_path": "/m9cn5mhW519QKr1YGpGxNWi98VJ.jpg",
+        "release_date": "2020-10-16",
+        "title": "Истребитель демонов: Поезд «Бесконечный»",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 1837
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1yJ8wBmWyEM24UFUSDaRHJFMPPL.jpg",
+        "genre_ids": [
+            28,
+            35,
+            53,
+            27
+        ],
+        "id": 760747,
+        "original_language": "no",
+        "original_title": "I onde dager",
+        "overview": "Пара приезжает в лесной дом, чтобы наладить отношения, но на самом деле каждый из них тайно планирует убить другого. Однако прежде чем им удается осуществить свои намерения, появляются неожиданные посетители.",
+        "popularity": 672.684,
+        "poster_path": "/kbqXenY9fKKOufi4Lzttz7QXGnZ.jpg",
+        "release_date": "2021-07-30",
+        "title": "Поездка",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 121
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8VmF0Cg7CZTfMeTtsF7k2Wrj38Z.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 672582,
+        "original_language": "en",
+        "original_title": "The Deep House",
+        "overview": "У молодой и современной пары, которая отправляется во Францию, чтобы исследовать подводный дом и поделиться своими находками в социальных сетях, серьезно меняются планы, когда они попадают внутрь странного дома, расположенного на дне моря. Их присутствие пробуждает темный дух, который преследует дом.",
+        "popularity": 742.22,
+        "poster_path": "/aSApSseZdOE6k9RddXJ7INlV0Hs.jpg",
+        "release_date": "2021-06-30",
+        "title": "Подводный дом",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 113
+    }
+]
